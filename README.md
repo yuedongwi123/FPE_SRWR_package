@@ -10,7 +10,7 @@ __Results:__ We run this framework on BRCA's data and find it have great perform
 ## The package
 
 * [__FPE_SRWR__](./FPE_SRWR/FPE_SRWR.py) This software package contains all the functions of FPE_SRWR.  
-* [__pypi__](https://pypi.org/project/FPE-SRWR/0.0.1/#files) Users can use command line 'pip install FPE_SRWR' to download this package.
+* [__pypi__](https://pypi.org/project/FPE-SRWR/0.0.1/#files) Users can use command line 'pip install FPE-SRWR==0.0.1' to download this package.
 ## Analysis scripts
 
 * [__BRCA_example__](./BRCA_example/BRCA_example.ipynb) Run the package to group samples and mining feature pathways.   
