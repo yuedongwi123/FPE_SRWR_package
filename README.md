@@ -13,7 +13,7 @@ __Results:__ We run this framework on BRCA's data and find it have great perform
 * [__pypi__](https://pypi.org/project/FPE-SRWR/0.0.1/#files) Users can use command line 'pip install FPE_SRWR' to download this package.
 ## Analysis scripts
 
-* [__BRCA_example__](./SRW_cookbook_BRCA.ipynb) Run the package to group samples and mining feature pathways.   
+* [__BRCA_example__](./BRCA_example/BRCA_example.ipynb) Run the package to group samples and mining feature pathways.   
 ## Figures
 
 | |
